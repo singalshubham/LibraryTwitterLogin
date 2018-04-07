@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterLoginSample</string>
+    <string name="login_with_twitter">login with twitter</string>
+    <string name="logout_from_twitter">logout from twitter</string>
+</resources>
